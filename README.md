@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Featurez">
+<a href="https://heroku.com/deploy?template=https://github.com/MasterYoutuber/Ajax-Extra-Features">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -108,8 +108,8 @@ python3 bot.py
 * /ban  - to ban a user.
 * /unban  - to unban a user.
 * /channel - to get list of total connected channels
-* /broadcast - to broadcast a message to all Ajax users
+* /broadcast - to broadcast a message to all Yaduvind users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/MWUpdatez)</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/yaduvind)</b>                                                                                                                                                                                     
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/EF_Linkz)</b>
