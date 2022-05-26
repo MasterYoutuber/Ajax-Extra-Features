@@ -41,10 +41,12 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/EF_Linkz'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/dvdnewupdates')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+2HO6cY79l8xjN2M1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+2HO6cY79l8xjN2M1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+K8AgILUTxzBiN2I1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
+            InlineKeyboardButton('📞CФИΓДCΓ MΞ📞', url='https://t.me/yaduvind'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw')
@@ -84,10 +86,12 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/EF_Linkz'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/dvdnewupdates')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+2HO6cY79l8xjN2M1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+2HO6cY79l8xjN2M1'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+K8AgILUTxzBiN2I1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
+            InlineKeyboardButton('📞CФИΓДCΓ MΞ📞', url='https://t.me/yaduvind'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCYrwuP91VHKB095D_VeZuMw')
